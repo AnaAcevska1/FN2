@@ -1,0 +1,1 @@
+alert("Gjorgji ocekuva tekst") 
